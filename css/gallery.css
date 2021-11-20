@@ -17,6 +17,7 @@ a:hover {
 
 .section-products .header {
     margin-bottom: 50px;
+    display: none;
 }
 
 .section-products .header h3 {
